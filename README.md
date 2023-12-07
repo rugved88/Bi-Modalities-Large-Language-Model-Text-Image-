@@ -6,7 +6,7 @@
 This repository explores the intersection of different AI modalities, particularly focusing on text and image generation. Our research delves into the intricacies of generative AI, leveraging advanced algorithms and data availability to push the boundaries of what's possible in AI-driven content creation.
 
 <p align="center">
-  <img src="Image.jpg" alt="Research Image">
+  <img src="Image.png" alt="Research Image">
 </p>
 
 ## Abstract
