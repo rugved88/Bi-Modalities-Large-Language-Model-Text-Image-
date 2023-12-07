@@ -1,4 +1,4 @@
-<h1 align="center">Bi-Modalities Large Language Model (Text-Image)</h1>
+<h1 align="center">Fast-Processing Bi-Modal Large Language and Vision Model</h1>
 
 <p align="center"><strong>Author:</strong> Rugved Chavan</p>
 
