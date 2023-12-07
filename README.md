@@ -5,6 +5,8 @@
 ## Overview
 This repository explores the intersection of different AI modalities, particularly focusing on text and image generation. Our research delves into the intricacies of generative AI, leveraging advanced algorithms and data availability to push the boundaries of what's possible in AI-driven content creation.
 
+Download the `model.h5` file from Google Drive: [Download Model](https://drive.google.com/file/d/1u53HryRB4cXAt3rtpu0zx1tJvkAmGHXm/view?usp=sharing)
+
 <p align="center">
   <img src="Image.png" alt="Research Image">
 </p>
@@ -24,7 +26,6 @@ Recently, Generative AI has gained popularity due to an increase in data availab
   <em>Click on the image above to watch the video.</em>
 </p>
 
-Download the `model.h5` file from Google Drive: [Download Model](https://drive.google.com/file/d/1u53HryRB4cXAt3rtpu0zx1tJvkAmGHXm/view?usp=sharing)
 
 
 ## References
