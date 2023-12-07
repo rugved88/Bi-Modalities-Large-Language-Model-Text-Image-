@@ -30,5 +30,5 @@ Recently, Generative AI has gained popularity due to an increase in data availab
 
 ## References
 1. Transformers for Text Generation
-2. UNet for Diffusion Models
-3. Microsoft's Composible Diffusion CoDi
+2. UNet for Stable Diffusion Model
+3. DL classifiers for output decisions. 
