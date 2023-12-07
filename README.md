@@ -24,6 +24,9 @@ Recently, Generative AI has gained popularity due to an increase in data availab
   <em>Click on the image above to watch the video.</em>
 </p>
 
+Download the `model.h5` file from Google Drive: [Download Model](https://drive.google.com/file/d/1u53HryRB4cXAt3rtpu0zx1tJvkAmGHXm/view?usp=sharing)
+
+
 ## References
 1. Transformers for Text Generation
 2. UNet for Diffusion Models
