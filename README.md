@@ -58,7 +58,7 @@ This bowl of noodles is a delicious and comforting dish, likely made with noodle
 To make your noodles healthier, opt for whole grain, buckwheat, or soba noodles instead of processed ones. Include lean proteins like grilled chicken, tofu, or shrimp. Add a variety of vegetables such as bok choy, kale, snap peas, edamame, and mushrooms. Flavor with fresh herbs and use low sodium broth and seasonings.
 
 #### Task: Text + Image to Text
-**Prompt:** How can I make the noodles healthy? Explain with both image and text.
+**Prompt:** What is the child holding in his hand? Describe.
 <p align="center">
   <img src="images/Image3.png" width="30%" alt="Child Playing Image">
 </p>
