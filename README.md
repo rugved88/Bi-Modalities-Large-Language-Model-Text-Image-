@@ -58,7 +58,7 @@ To make your noodles healthier, opt for whole grain, buckwheat, or soba noodles 
 #### Task: Text + Image to Text
 **Prompt:** How can I make the noodles healthy? Explain with both image and text.
 <p align="center">
-  <img src="images/images/Image3.png" width="30%" alt="Child Playing Image">
+  <img src="images/Image3.png" width="30%" alt="Child Playing Image">
 </p>
 
 **Output:**  
