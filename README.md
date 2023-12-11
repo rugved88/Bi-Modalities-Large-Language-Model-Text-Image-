@@ -29,6 +29,53 @@ Recently, Generative AI has gained popularity due to an increase in data availab
   <em>Click on the image above to watch the video.</em>
 </p>
 
+## Sample Responses
+
+#### Task: Text to Image
+**Prompt:** Generate an Image of a Cat.
+<p align="center">
+  <img src="Image6.png" width="60%" alt="Cat Image">
+</p>
+
+#### Task: Text + Image to Text
+**Prompt:** Describe the dish in the provided image, including potential ingredients and flavors.
+<p align="center">
+  <img src="Image1.png" width="60%" alt="Dish Image">
+</p>
+
+**Output:**  
+This bowl of noodles is a delicious and comforting dish, likely made with noodles such as ramen, udon, spaghetti, or risoni. The savory broth is a combination of vegetables, meats (possibly pork, chicken, beef, or tofu), and flavorful seasonings like garlic, ginger, and soy sauce. Ingredients are cooked together in a rich broth with vegetables like carrots, onion, bell pepper, and mushrooms, adding substantial nutritional value.
+
+#### Task: Text + Image to Text + Image
+**Prompt:** How can I make the noodles healthy? Explain with both image and text.
+<p align="center">
+  <img src="Image2.png" width="60%" alt="Healthy Noodles Image">
+</p>
+
+**Output:**  
+To make your noodles healthier, opt for whole grain, buckwheat, or soba noodles instead of processed ones. Include lean proteins like grilled chicken, tofu, or shrimp. Add a variety of vegetables such as bok choy, kale, snap peas, edamame, and mushrooms. Flavor with fresh herbs and use low sodium broth and seasonings.
+
+#### Task: Text + Image to Text
+**Prompt:** How can I make the noodles healthy? Explain with both image and text.
+<p align="center">
+  <img src="Image3.png" width="60%" alt="Child Playing Image">
+</p>
+
+**Output:**  
+The child in the image is holding a rope, possibly pretending to swing on it. The rope is likely a toy made from soft, flexible material. Depending on the child's age, it could also be part of a larger toy like a swing or a jump rope.
+
+#### Task: Image to Text + Image
+<p align="center">
+  <img src="Image4.png" width="60%" alt="Friends Cast Image">
+</p>
+**Prompt:** How can I make the noodles healthy? Explain with both image and text.
+<p align="center">
+  <img src="Image5.png" width="60%" alt="Friends Cast Image">
+</p>
+
+**Output:**  
+The cast of 'Friends' is a popular American TV sitcom featuring six main characters: Ross Geller, Rachel Green, Chandler Bing, Monica Geller, Joey Tribbiani, and Phoebe Buffay. Set in Manhattan, the show follows their life experiences, emphasizing each character's unique personality and humorous misadventures.
+
 
 
 ## References
