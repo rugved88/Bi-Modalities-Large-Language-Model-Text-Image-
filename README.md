@@ -40,7 +40,7 @@ Recently, Generative AI has gained popularity due to an increase in data availab
 #### Task: Text + Image to Text
 **Prompt:** Describe the dish in the provided image, including potential ingredients and flavors.
 <p align="center">
-  <img src="images/Image1.png" width="60%" alt="Dish Image">
+  <img src="images/Image1.png" width="30%" alt="Dish Image">
 </p>
 
 **Output:**  
@@ -49,7 +49,7 @@ This bowl of noodles is a delicious and comforting dish, likely made with noodle
 #### Task: Text + Image to Text + Image
 **Prompt:** How can I make the noodles healthy? Explain with both image and text.
 <p align="center">
-  <img src="images/Image2.png" width="60%" alt="Healthy Noodles Image">
+  <img src="images/Image2.png" width="30%" alt="Healthy Noodles Image">
 </p>
 
 **Output:**  
@@ -58,7 +58,7 @@ To make your noodles healthier, opt for whole grain, buckwheat, or soba noodles 
 #### Task: Text + Image to Text
 **Prompt:** How can I make the noodles healthy? Explain with both image and text.
 <p align="center">
-  <img src="images/images/Image3.png" width="60%" alt="Child Playing Image">
+  <img src="images/images/Image3.png" width="30%" alt="Child Playing Image">
 </p>
 
 **Output:**  
@@ -70,7 +70,7 @@ The child in the image is holding a rope, possibly pretending to swing on it. Th
 </p>
 **Prompt:** How can I make the noodles healthy? Explain with both image and text.
 <p align="center">
-  <img src="images/Image5.png" width="60%" alt="Friends Cast Image">
+  <img src="images/Image5.png" width="30%" alt="Friends Cast Image">
 </p>
 
 **Output:**  
