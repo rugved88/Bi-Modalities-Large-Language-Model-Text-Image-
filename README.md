@@ -48,6 +48,7 @@ This bowl of noodles is a delicious and comforting dish, likely made with noodle
 
 #### Task: Text + Image to Text + Image
 **Prompt:** How can I make the noodles healthy? Explain with both image and text.
+
 **Output:**  
 
 <p align="center">
