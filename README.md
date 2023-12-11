@@ -66,7 +66,7 @@ The child in the image is holding a rope, possibly pretending to swing on it. Th
 
 #### Task: Image to Text + Image
 <p align="center">
-  <img src="images/Image4.png" width="60%" alt="Friends Cast Image">
+  <img src="images/Image4.png" width="30%" alt="Friends Cast Image">
 </p>
 **Prompt:** How can I make the noodles healthy? Explain with both image and text.
 <p align="center">
