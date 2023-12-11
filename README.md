@@ -34,7 +34,7 @@ Recently, Generative AI has gained popularity due to an increase in data availab
 #### Task: Text to Image
 **Prompt:** Generate an Image of a Cat.
 <p align="center">
-  <img src="Image6.png" width="60%" alt="Cat Image">
+  <img src="images/Image6.png" width="30%" alt="Cat Image">
 </p>
 
 #### Task: Text + Image to Text
