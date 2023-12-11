@@ -68,14 +68,12 @@ The child in the image is holding a rope, possibly pretending to swing on it. Th
 <p align="center">
   <img src="images/Image4.png" width="30%" alt="Friends Cast Image">
 </p>
-**Prompt:** How can I make the noodles healthy? Explain with both image and text.
-<p align="center">
-  <img src="images/Image5.png" width="30%" alt="Friends Cast Image">
-</p>
 
 **Output:**  
 The cast of 'Friends' is a popular American TV sitcom featuring six main characters: Ross Geller, Rachel Green, Chandler Bing, Monica Geller, Joey Tribbiani, and Phoebe Buffay. Set in Manhattan, the show follows their life experiences, emphasizing each character's unique personality and humorous misadventures.
-
+<p align="center">
+  <img src="images/Image5.png" width="30%" alt="Friends Cast Image">
+</p>
 
 
 ## References
